@@ -1,6 +1,8 @@
 # Math Notes
 
-## Mathematics/Physics
+## Algebra
+- Studies the non-empty set of mathematical objects with algebraic operations
+    !['See AlgebraTerms.png in the images folder for a breakdown on the structure for an algebraic expression](../05_Images/AlgebraTerms.png)
 
 ### Quantity
 - Refers to a **measurable property** of an object/system
@@ -12,9 +14,7 @@
 - mathematical and physical quantity that **only has a magnitude**
 - Algebra
 
-#### Algebra
-- Studies the non-empty set of mathematical objects with algebraic operations
-    !['See AlgebraTerms.png in the images folder for a breakdown on the structure for an algebraic expression](../05_Images/AlgebraTerms.png)
+## Geometry
 
 ### Vector
 - mathematical and physical quantity that has both **magnitude and *direction***
@@ -23,6 +23,18 @@
     - Or in physics as a line with a magnitude
         - 20m ------->
 - Vector Algebra
+
+### Triangles
+- 2 Dimensional, closed-shape, with three angles/three straight sides/three corners(vertices) 
+    - The total angles should add up to 180 degrees
+
+
+### Dot Product
+- Two vectors can be multiplied
+    - $a * b$ = $|a| * |b| * \cos{\theta}$
+        - $a$ = vector $a$
+        - $b$ = vector $b$
+        - $\theta$ = angle between the two vectors
 
 ## Matrix
 - A rectangular array of numbers

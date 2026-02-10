@@ -16,6 +16,17 @@
 
 ## Geometry
 
+### End point
+- A specific location
+
+### Line Segment
+- a straight line bounded by two distinct endpoints
+    - Contains all the points between them
+- A **Line** extends infinitely in both directions, hence the addition of segment
+
+### Radius or Radii
+- refers to the line segments form the center of a circle or sphere to it's perimeter
+
 ### Vector
 - mathematical and physical quantity that has both **magnitude and *direction***
     - Mathematically displayed as a line of numbers
@@ -28,6 +39,8 @@
 - 2 Dimensional, closed-shape, with three angles/three straight sides/three corners(vertices) 
     - The total angles should add up to 180 degrees
 
+### Pythagorean Theorum
+- $a^2 + b^2 = c^2$ 
 
 ### Dot Product
 - Two vectors can be multiplied
@@ -35,6 +48,8 @@
         - $a$ = vector $a$
         - $b$ = vector $b$
         - $\theta$ = angle between the two vectors
+
+### Cross Product
 
 ## Matrix
 - A rectangular array of numbers
@@ -67,19 +82,7 @@
 
 ## Euclidean Geometry
 
-#### End point
-- A specific location
 
-#### Line Segment
-- a straight line bounded by two distinct endpoints
-    - Contains all the points between them
-- A **Line** extends infinitely in both directions, hence the addition of segment
-
-## Pythagorean Theorum
-- $a^2 + b^2 = c^2$ 
-
-#### Radius or Radii
-- refers to the line segments form the center of a circle or sphere to it's perimeter
 
 
 

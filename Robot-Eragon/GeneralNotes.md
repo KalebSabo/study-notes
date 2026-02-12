@@ -1,6 +1,11 @@
 # General Notes
 - This file will be for notes not able to fit into any of the catagories. 
 
+### Relevant White Papers
+- See White Paper here
+https://arxiv.org/abs/2205.05748
+
+
 ### Diffusion
 - The net movement of anything generally from a region of higher concentration to a region of lower concentration.
 

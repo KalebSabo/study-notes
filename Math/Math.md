@@ -53,6 +53,7 @@
         - Sin($\theta$) = $\frac{Opposite}{Hypotenuse}$
     - **Cosine**
         - Cos($\theta$) = $\frac{Adjacent}{Hypotenuse}$
+            - Cosine and Sine will land between -1/1
     - **Tangent**
         - Tan($\theta$) = $\frac{Opposite}{Adjacent}$
 

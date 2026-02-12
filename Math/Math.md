@@ -39,6 +39,23 @@
 - 2 Dimensional, closed-shape, with three angles/three straight sides/three corners(vertices) 
     - The total angles should add up to 180 degrees
 
+### Right Triangle
+- A right triangle always has a $90\degree$ angle
+    - **Theta** $\theta$ = One angle inside the triangle
+    - **Opposite** = The *opposite* side of angle Theta
+    - **Adjacent** = The side *next* to angle Theta
+    - **Hypotenuse** = The side from the end of the Adjacent to the end of the Opposite, aka the *long* one
+
+### Sine, Cosine and Tangent
+- Ratios of sides of a right angled (90 $\degree$) triangle
+- For a given angle ($\theta$) each ratio stays the same no matter how big or small the triangle is
+    - **Sine**
+        - Sin($\theta$) = $\frac{Opposite}{Hypotenuse}$
+    - **Cosine**
+        - Cos($\theta$) = $\frac{Adjacent}{Hypotenuse}$
+    - **Tangent**
+        - Tan($\theta$) = $\frac{Opposite}{Adjacent}$
+
 ### Pythagorean Theorum
 - $a^2 + b^2 = c^2$ 
 
@@ -50,6 +67,47 @@
         - $\theta$ = angle between the two vectors
 
 ### Cross Product
+
+## Circle
+- The set of all points in a plane that are at a fixed distance from a central point, aka the center.
+    - **Radius** = Distance from the center to the edge
+    - **Diameter** = A straight line across the circle, through the center
+    - **Circumference** = Distance *once* around the circle
+        - Divide the **Circumference** by the **Diameter** = $\pi$ aka pi aka 3.14159...
+    - $d * \pi = C = 2 * \pi * r$
+        - $d$ = Diameter
+        - $C$ = Circumference
+        - $\pi$ = 3.14159
+        - $r$ = Radius
+
+### Area
+- Area of a circle is $\pi$ times the radius squared
+    - $A = \pi * r^2$
+#### Area of a Circle by Lines
+- A circle becomes a triangle (take the radius straight down, decouple the top radius, fold open)
+    - You can then derive the area of a circle this way
+
+### Special Names
+- **Tangent** = A line that "just touches" the circle as it passes
+- **Secant** = A line that cuts the circle at two points
+- **Chord** = A line segment that goes from one point to another on the circle's circumference
+- **Arc** = A part of the circumference
+
+### Slices
+- **Sector** = A "pizza" slice/ ~(3/8)
+    - **Quadrant** = A special **Sector** with a right angle (90 $\degree$)
+- **Segment** = A slice made by a **Chord**
+- **Semicircle** = Half a circle
+
+### Equations
+- To find radius (Useful when the circle is not on the origin)
+- $(x - a)^2 + (y - b)^2 = r^2$
+    - $x$ = the distance on the x-axis to a point on the circumference
+    - $a$ = the distance on the x-axis to the center point
+    - $y$ = the distance on the y-axis to a point on the circumference
+    - $b$ = the distance on the y-axis to the center point
+    - $r$ = radius
+
 
 ## Matrix
 - A rectangular array of numbers

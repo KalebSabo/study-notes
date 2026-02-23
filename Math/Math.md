@@ -123,17 +123,26 @@
         - 9,
 - Combine Rows/Columns for a matrix
     - Denoted as $m$(Rows) x $n$(Columns)
-- Matrix Algebra
+    - "Start down and to the right"
+- The size of the rows/columns determines the matrix's dimensions
+    - 2 (Rows) x 3 (Columns) or 3 x 5
+### Element
+- Each entry inside of a matrix is known as an element
+- Identify an element by it's row/column as subscripts (numbers opposite exponents)
+    - i.e. $M_{2,3}
+        - Element $M$ at row 2 column 3
 
-### Scalar Multiplication
+### Matrix Scalar Multiplication
 - Using a single number/Coefficient to 'scale' a matrix
     - Multiply each matrix element by the number/Coefficient
-
+    - i.e. 2 * (4 x 4) = (8 x 8)
 ### Matrix Multiplication
 - A binary operation
     - The product is a matrix from 2 other matrices
         - The *matrix product* will have the same number of '**rows** as the **first**'/'**columns** as the **second**'
 - Matrix multiplication is used in computer graphics to apply transformations like rotation, scaling, or translation of shapes
+    - Also, can be thought of as 
+
 
 ## Tensor
 - Scalar, Vector and Matrix are all properties of Tensors

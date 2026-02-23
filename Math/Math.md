@@ -138,6 +138,10 @@
 ## Tensor
 - Scalar, Vector and Matrix are all properties of Tensors
 - Tensor Algebra
+- Multiple matrices stacked on top of each other make up a 3D Tensor. 
+    - ### Rank
+        - Number of dimensions
+- Tensors can increase in *rank* if you keep adding more matrices on top of it
 
 ## Euclidean Geometry
 

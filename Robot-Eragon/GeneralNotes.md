@@ -11,6 +11,14 @@ A Case Study in Cloud-Based Robotics Research
 - **Youtube Videos**  
 https://youtu.be/rRFgm_QSc74?s 12 Design Tips And Tricks for Inventors and Makers
 
+### Steady-State
+- the behavior of a system or process that is unchanging in time. 
+- #### Continuous time
+    - the partial derivative, with respect to time, is zero
+    - $\frac{\partial p}{\partial t} = 0$
+- #### Discrete time
+    - The first difference (subtraction) of each property is zero
+    - $p_t - p_{t-1} = 0$
 
 ### Diffusion
 - The net movement of anything generally from a region of higher concentration to a region of lower concentration.

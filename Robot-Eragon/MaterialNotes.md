@@ -1,6 +1,17 @@
 # Material Notes
 - This file will focus on physical/material characteristics of Eragon
 
+## Thermodynamics
+
+### Conductivity (k)
+- Electrons transfer energy efficiently
+
+### Diffusivity ($a$)
+- Spreads heat fast through the material
+
+### Emissivity ($\epsilon$)
+- Shiny *surface* reflects rather than radiates
+
 
 
 ## Crystallography

@@ -132,10 +132,49 @@
     - i.e. $M_{2,3}
         - Element $M$ at row 2 column 3
 
+### Types of Matrices
+#### Identity Matrix
+- has 1s on the main diagonal, 0s everywhere else.
+- Is a square matrix (same number of rows as columns) but any size
+- represented as $I$
+    - [1, 0, 0]
+    - [0, 1, 0]
+    - [0, 0, 1]
+- it is equivalent to an algebraic 1
+- $A * I = A$
+- $I * A = A$
+
+#### Diagonal Matrix
+- Zeroes anywhere not on the main diagonal
+    - [4, 0, 0]    
+    - [0, 9, 0] 
+    - [0, 0, 6]
+- arange the diagonal as you wish
+
+#### Scalar Matrix
+- Main diagonal entries are the same, zero everywhere else.
+    - [4, 0, 0]    
+    - [0, 4, 0] 
+    - [0, 0, 4]
+
+#### Triangular Matrix
+- 2 types
+    - ##### **Lower** triangular
+    - When all entries above the main diagonal are zero
+        - [4, 0, 0] <- See here!   
+        - [6, 4, 0] 
+        - [4, 3, 4]
+    - ##### **Upper** triangular
+    - When all entries below the main diagonal are zero
+        - [4, 7, 6]  
+        - [0, 4, 3] 
+        - [0, 0, 4]
+
 ### Matrix Scalar Multiplication
 - Using a single number/Coefficient to 'scale' a matrix
     - Multiply each matrix element by the number/Coefficient
     - i.e. 2 * (4 x 4) = (8 x 8)
+
 ### Matrix Multiplication
 - A binary operation
     - The product is a matrix from 2 other matrices

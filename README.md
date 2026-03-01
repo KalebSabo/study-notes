@@ -6,5 +6,8 @@
 ## Math
 - Notes starting from 'first-principles'
 
-## Books
-- Various books I have found interesting 
+## Numpy
+- Work on Numpy and various coding notes
+
+## AI
+- Work and study on AI fundamentals

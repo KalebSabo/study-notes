@@ -21,7 +21,7 @@
         - heat conductivity relative to its energy storage capacity/"thermal bulk" 
 - #### 'Flash' Method
     - Measured physically with the 'flash' method
-        - heat a strip/cylindrical sample with a small energy pulse at one end and watch the temperature changes. 
+        - heat a strip/cylindrical sample with a small energy pulse at one end and measure the temperature travel through the strip. 
 
 ### Fourier Number ($F_o or Fo_L$)
 - dimensionless parameter, analyzes the unsteady state of heat transfer

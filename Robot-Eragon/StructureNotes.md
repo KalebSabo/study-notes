@@ -34,6 +34,9 @@
 #### Static Balance
 - Net forces and torques are zero
 
+## Degrees of Freedom
+- The number of values in the final calculation of a statistic that are free to vary
+
 
 
 
